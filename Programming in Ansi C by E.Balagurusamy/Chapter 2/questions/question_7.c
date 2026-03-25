@@ -17,4 +17,17 @@ Else if marks ≥ 50 → Grade C
 Else → Fail
 Display grade
 Stop
+
+Algorithm
+Start
+Input marks
+If marks ≥ 90 → Grade = O
+Else if marks ≥ 80 → Grade = E
+Else if marks ≥ 70 → Grade = A
+Else if marks ≥ 60 → Grade = B
+Else if marks ≥ 50 → Grade = C
+Else if marks ≥ 40 → Grade = D
+Else → Grade = F
+Display grade
+Stop
 */
