@@ -1,13 +1,11 @@
 /*
-1.12 Sum of Series (1! + 2! + 3! + … + N!)
+1.11 Sum of Series (2 + 4 + 6 + … N terms)
 Algorithm
 Start
 Input n
 sum = 0
-fact = 1
 For i = 1 to n:
-fact = fact × i
-sum = sum + fact
+sum = sum + (2 × i)
 Display sum
 Stop
 */
